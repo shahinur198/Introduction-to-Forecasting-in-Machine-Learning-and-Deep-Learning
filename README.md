@@ -10,3 +10,8 @@ https://www.youtube.com/watch?v=4i6MUpA-Q5M
 https://www.youtube.com/watch?v=vRod1eIPCWk
 
 https://www.youtube.com/watch?v=AX1wKnBPhvU
+
+# read excel file
+```
+pip install xlrd
+```
