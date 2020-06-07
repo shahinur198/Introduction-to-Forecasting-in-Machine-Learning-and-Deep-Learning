@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=AX1wKnBPhvU
 ```
 pip install xlrd
 ```
+
+pip install pandas
